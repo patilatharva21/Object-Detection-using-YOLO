@@ -10,6 +10,12 @@ This project performs **real-time object detection** using the **YOLOv8 model** 
 - Press **'q'** to exit the live window  
 
 ---
+## 🖼️ Project Output
+
+### Output
+![Result 1](output/output1.jpeg)
+
+![Result 2](output/output2.jpeg)
 
 ## ⚙️ Requirements
 Install dependencies:
@@ -18,12 +24,7 @@ pip install ultralytics opencv-python
 
 
 --- 
-## 🖼️ Project Output
 
-### Output
-![Result 1](images/output1.jpeg)
-
-![Result 2](images/output2.jpeg)
 
 
 
