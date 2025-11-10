@@ -20,4 +20,3 @@ This project performs **real-time object detection** using the **YOLOv8 model** 
 Install dependencies:
 ```bash
 pip install ultralytics opencv-python
---- 
